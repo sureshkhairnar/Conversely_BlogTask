@@ -1,0 +1,6 @@
+[submodule "BlogClient"]
+	path = BlogClient
+	url = https://github.com/sureshkhairnar/BlogClient
+[submodule "blogserver"]
+	path = blogserver
+	url = https://github.com/sureshkhairnar/blogserver
